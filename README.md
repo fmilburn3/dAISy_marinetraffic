@@ -4,13 +4,19 @@ This Energia sketch uses dAISy and the Texas Instruments CC3200 LaunchPad or CC3
 Tested on the following with Energia v17....
 
   dAISy: F5529/BackPack
+  
   TM4C123 w/ CC3100
+  
   F5529 w/ CC3100 - must increase the ring buffer in HardwareSerial.cpp of Energia - see comments in code
+  
   CC3200 - not tested with this version of the code but expected to work
 
 Released into the public domain
+
 Created by Frank Milburn, January 2015
+
   @gmtii at 43oh.com published a sketch for the ESP8266 from the starting framework of this code was derived
+  
   Thanks for assistance from @chicken and @spirillis at 43oh.com
 
 See the following link for more information on dAISy: https://www.tindie.com/products/astuder/daisy-ais-receiver/
