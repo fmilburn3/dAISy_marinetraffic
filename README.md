@@ -3,13 +3,13 @@ This Energia sketch uses dAISy and the Texas Instruments CC3200 LaunchPad or CC3
 
 Tested on the following....
 
-  dAISy            CC3xxx              Energia         Comments
-  --------------   -----------------   -------------   -------------------------------------------
-  F5529/BackPack   CC3200              v17 non-EMT     Not yet tested but expected to work
-  F5529/BackPack   TM4C123 w/ CC3100   v17             Stable
-  F5529/BackPack   F5529 w/ CC3100     v17             Stable when the the ring buffer is increased
-                                                       ring buffer is increased in HardwareSerial.cpp
-                                                       e.g. #define SERIAL_BUFFER_SIZE 512 
+  dAISy             CC3xxx                Energia           Comments
+  --------------    -----------------     -------------     -------------------------------------------
+  F5529/BackPack    CC3200                v17 non-EMT       Not yet tested but expected to work
+  F5529/BackPack    TM4C123 w/ CC3100     v17               Stable
+  F5529/BackPack    F5529 w/ CC3100       v17               Stable when the the ring buffer is increased
+                                                            ring buffer is increased in HardwareSerial.cpp
+                                                            e.g. #define SERIAL_BUFFER_SIZE 512 
 
 Created by Frank Milburn, January 2015
 
