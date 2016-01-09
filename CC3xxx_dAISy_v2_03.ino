@@ -25,7 +25,7 @@
   the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
         
   Created by Frank Milburn, January 2015
-  @gmtii at 43oh.com published a sketch for the ESP8266 from which this is derived
+  @gmtii at 43oh.com published a sketch for the ESP8266 which formed the starting framework of this code
   Thanks for assistance from @chicken and @spirillis at 43oh.com
 */
 
