@@ -4,7 +4,7 @@ This Energia sketch uses dAISy and the Texas Instruments CC3200 LaunchPad or CC3
 This code is released in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 
 Created by Frank Milburn, January 2015
-* @gmtii at 43oh.com published a sketch for the ESP8266 from the starting framework of this code was derived
+* @gmtii at 43oh.com published a sketch for the ESP8266 from which the starting framework of this code was derived
 * Thanks for assistance from @chicken and @spirillis at 43oh.com
 
 See the following link for more information on dAISy: https://www.tindie.com/products/astuder/daisy-ais-receiver/
