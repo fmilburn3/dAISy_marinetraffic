@@ -1,11 +1,11 @@
 # dAISy_marinetraffic
 This Energia sketch uses dAISy and the Texas Instruments CC3200 LaunchPad or CC3100 BoosterPack to create a low cost shore based AIS station that reports data to MarineTraffic.
 
+Released into the public domain
 
-Released into the public domain\n
-Created by Frank Milburn, January 2015\n
-@gmtii at 43oh.com published a sketch for the ESP8266 from the starting framework of this code was derived\n
-Thanks for assistance from @chicken and @spirillis at 43oh.com
+Created by Frank Milburn, January 2015
+* @gmtii at 43oh.com published a sketch for the ESP8266 from the starting framework of this code was derived
+* Thanks for assistance from @chicken and @spirillis at 43oh.com
 
 See the following link for more information on dAISy: https://www.tindie.com/products/astuder/daisy-ais-receiver/
 
